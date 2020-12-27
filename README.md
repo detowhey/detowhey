@@ -22,7 +22,6 @@ In the city where I live, I am a volunteer. I help people with low income in the
 
 ----------------------------
 ## Stacks and tools
-<br>
 <img src="img/java.png" width="30" height="30"><img src="img/kotlin.png" width="30" height="30"><img src="img/javascript.png" width="30" height="30">
 
 -----------------------------------------
