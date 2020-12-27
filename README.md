@@ -24,8 +24,7 @@ In the city where I live, I am a volunteer. I help people with low income in the
 ## Stacks and tools
 <br>
 <img src="img/java.png" alt="Java Programming language" width="30" height="30"/> <img src="img/kotlin.png" alt="Kotlin Programming language" width="30" height="30"/> <img src="img/javascript.png" alt="Javascript Programming language" width="30" height="30"/> <img src="img/ruby.png" alt="Ruby Programming language" width="30" height="30"/>
-<br>
-<img src="img/selenium.png" alt="Selenium tool" width="30" height="30"/> <img src="img/postman.png" alt="Postman tool" width="30" height="30"/> <img src="img/restassured.png" alt="Rest Assured tool" width="30" height="30"/> <img src="img/cypress.png" alt="Cypress tool" width="30" height="30"/> <img src="img/appium.png" alt="Appium tool" width="38" height="30"/> <img src="img/sqlserver.png" alt="SQL Server Icon" width="30" height="30"/> <img src="img/mongo.png" alt="Mongo DB" width="35" height="30">
+<img src="img/selenium.png" alt="Selenium tool" width="30" height="29"/> <img src="img/postman.png" alt="Postman tool" width="30" height="30"/> <img src="img/restassured.png" alt="Rest Assured tool" width="30" height="30"/> <img src="img/cypress.png" alt="Cypress tool" width="30" height="30"/> <img src="img/appium.png" alt="Appium tool" width="38" height="30"/> <img src="img/sqlserver.png" alt="SQL Server Icon" width="30" height="30"/> <img src="img/mongo.png" alt="Mongo DB" width="35" height="30">
 
 -----------------------------------------
 ## Other contacts
