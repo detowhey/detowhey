@@ -24,11 +24,11 @@ In the city where I live, I am a volunteer. I help people with low income in the
 ## Stacks and tools
 <br>
 
-<img src="img/java.png" width="30" height="30"><img src="img/kotlin.png" width="30" height="30"><img src="img/javascript.png" width="30" height="30"><img src="img/ruby.png" width="30" height="30">
+<img src="img/java.png" width="30" height="30"> <img src="img/kotlin.png" width="30" height="30"> <img src="img/javascript.png" width="30" height="30"> <img src="img/ruby.png" width="30" height="30">
 
 <br>
 
-<img src="img/selenium.png" width="30"><img src="img/postman.png" width="30" height="30"><img src="img/restassured.png" width="30" height="30"><img src="img/cypress.png" width="30" height="30"/><img src="img/appium.png" width="38" height="30"><img src="img/sqlserver.png" width="30" height="30"><img src="img/mongo.png" width="35" height="30">
+<img src="img/selenium.png" width="30"> <img src="img/postman.png" width="30" height="30" > <img src="img/restassured.png" width="30" height="30"> <img src="img/cypress.png" width="30" height="30"/> <img src="img/appium.png" width="38" height="30"> <img src="img/sqlserver.png" width="30" height="30"> <img src="img/mongo.png" width="35" height="30">
 
 -----------------------------------------
 ## Other contacts
