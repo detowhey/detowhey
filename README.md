@@ -18,7 +18,7 @@
 
 In my free time I love to train fighting sports 👘(Jiu-Jitsu, Wrestling, Muay Thai and Tae Kwon Do (MMA fan), but I'm a grappler 😅) and read comics.
 
-In the city where I live, I am a volunteer. I help people with low income in the introduction to programming and also as a jiu-jitsu instructor.
+In the city where I live, I'm a volunteer. I help people with low income in the introduction to programming and also as a jiu-jitsu instructor in a social project.
 
 ----------------------------
 ## Stacks and tools
