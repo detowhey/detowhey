@@ -16,7 +16,7 @@
   
   I'm Henrique and I work as a Software Developer in Test. I work in the area since 2019 (but, just out of curiosity, I study technology since 2015). I really like working as a team!
 
-In my free time, I love to train fighting sports of which are, Brazilian Jiu-Jitsu 👘, Wrestling and Muay Thai (I'm MMA fan), but my fighting style is grappling, 😅 and read comics.
+In my free time, I love to train fighting sports of which are, Brazilian Jiu-Jitsu 👘, Wrestling and Muay Thai (I'm MMA fan), but my fighting style is grappling 😅, and read comics.
 
 In the city where I live, I'm a volunteer. I help people with low income in the introduction to programming and also as a jiu-jitsu instructor in a social project.
 
