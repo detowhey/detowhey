@@ -1,5 +1,3 @@
-![cover](img/capa.png)
-
   <table>
     <tr>
         <td>
