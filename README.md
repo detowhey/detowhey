@@ -12,7 +12,7 @@
 
   # Hi, there how are you ? 👋
   
-  I'm Henrique and I work as a Software Developer in Test. I work in the area since 2019 (but, just out of curiosity, I study technology since 2015). I really like working as a team!
+  I'm Henrique and I work as a Software Developer. I work in the area since 2019 (but, just out of curiosity, I study technology since 2015). I really like working as a team!
 
 In my free time, I love to train fighting sports of which are, Brazilian Jiu-Jitsu 👘, Judo, Wrestling and Muay Thai (I'm MMA fan), but my fighting style is grappling 😅, and read comics.
 
