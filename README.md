@@ -1,10 +1,10 @@
   <table>
     <tr>
         <td>
-            <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=detowhey&show_icons=true&theme=tokyonight"/>
+            <img width="380px" align="center" src="https://github-readme-stats.vercel.app/api?username=detowhey&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detowhey&layout=compact&hide=html,css&theme=tokyonight" />
+            <img width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detowhey&layout=compact&hide=html,css&theme=tokyonight" />
         </td>
     </tr>   
   </table>
