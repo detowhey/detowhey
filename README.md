@@ -18,9 +18,8 @@ In my free time, I love to train fighting sports of which are, Brazilian Jiu-Jit
 
 In the city where I live, I'm a volunteer. I help people with low income as jiu-jitsu instructor in a social project.
 
-----------------------------
 ## Programming languages
-<br>
+
 <div style="display: inline_block">
   <img src="img/java.png" width="30" height="30"> <img src="img/kotlin.png" width="30" height="30"> <img src="img/javascript.png" width="30" height="30"> <img src="img/typescript.png" width="30" height="30">
 ----------------------------  
