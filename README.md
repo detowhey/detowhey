@@ -1,13 +1,7 @@
-  <table>
-    <tr>
-        <td>
-            <img width="380px" align="center" src="https://github-readme-stats.vercel.app/api?username=detowhey&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detowhey&layout=compact&hide=html,css&theme=tokyonight" />
-        </td>
-    </tr>   
-  </table>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=detowhey&show_icons=true&theme=tokyonight"/>
+       
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detowhey&layout=compact&hide=html,css&theme=tokyonight" />
+      
 <br>
 
   # Hi, there how are you ? 👋
